@@ -34,7 +34,6 @@ const MainPage = () => {
             />}
       </div>
       <div className="section">
-        <RulesCard />
         <ScoreBoard
           isAutoPlay={isAutoPlay}
           setIsAutoPlay={setIsAutoPlay}
@@ -42,6 +41,7 @@ const MainPage = () => {
           oScore={oScore}
           restartGame={restartGame}
         />
+        <RulesCard />
       </div>
     </div>
   )
