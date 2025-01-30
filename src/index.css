@@ -1,0 +1,17 @@
+
+body {
+  box-sizing: border-box;
+  font-family: sans-serif, Inter, system-ui, Avenir, Helvetica, Arial;
+  line-height: 1.5;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0 auto;
+  text-align: center;
+  caret-color: transparent;
+letter-spacing: 1px;
+
+}
+
